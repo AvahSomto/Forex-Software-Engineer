@@ -1,2 +1,5 @@
 # Forex-Software-Engineer
-Building highly scalable, fault-tolerant, low-latency and high performance distributed systems.
+Building high performance systems to capture and process real-time data for trading environments.
+Using open source technologies to push the limits of latency sensitive backend systems.
+Integrating order management systems and execution management systems.
+Building and maintaining market data and transaction databases for research and analysis
